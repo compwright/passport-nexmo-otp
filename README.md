@@ -1,5 +1,9 @@
 # passport-nexmo-otp
 
+[![Dependency Status](https://img.shields.io/david/compwright/passport-nexmo-otp.svg?style=flat-square)](https://david-dm.org/compwright/passport-nexmo-otp)
+[![Download Status](https://img.shields.io/npm/dm/passport-nexmo-otp.svg?style=flat-square)](https://www.npmjs.com/package/passport-nexmo-otp)
+[![Sponsor on GitHub](https://img.shields.io/static/v1?label=Sponsor&message=❤&logo=GitHub&link=https://github.com/sponsors/compwright)](https://github.com/sponsors/compwright)
+
 Nexmo one-time-pin (OTP) strategy for Passport.js
 
 ## Requirements
