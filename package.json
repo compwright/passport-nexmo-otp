@@ -1,6 +1,6 @@
 {
   "name": "passport-nexmo-otp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Nexmo one-time-pin (OTP) strategy for Passport.js",
   "main": "index.js",
   "repository": {
