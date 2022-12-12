@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/compwright/passport-nexmo-otp#readme",
   "dependencies": {
-    "debug": "^4.3.1",
+    "debug": "^4.3.4",
     "lodash": "^4.17.21",
     "passport-strategy": "^1.0.0"
   },
