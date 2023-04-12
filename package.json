@@ -29,6 +29,6 @@
     "passport-strategy": "^1.0.0"
   },
   "peerDependencies": {
-    "nexmo": "^2.3.2"
+    "nexmo": "^2.9.1"
   }
 }
